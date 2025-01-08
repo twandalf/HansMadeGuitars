@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/</loc>
   </url><url>
-    <loc>http://localhost:1313/accessoires/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/accessoires/</loc>
   </url><url>
-    <loc>http://localhost:1313/afstellen/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/afstellen/</loc>
   </url><url>
-    <loc>http://localhost:1313/afwerking/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/afwerking/</loc>
   </url><url>
-    <loc>http://localhost:1313/fotosprojecten/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/fotosprojecten/</loc>
   </url><url>
-    <loc>http://localhost:1313/gitaarbouw/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/gitaarbouw/</loc>
   </url><url>
-    <loc>http://localhost:1313/license/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/license/</loc>
   </url><url>
-    <loc>http://localhost:1313/reparatie/</loc>
+    <loc>http://localhost:1313/HansMadeGuitars/reparatie/</loc>
   </url>
 </urlset>
